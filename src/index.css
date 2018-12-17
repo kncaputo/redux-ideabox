@@ -66,6 +66,10 @@ li {
   margin: 10px 0;
 }
 
+.App {
+  text-align: center;
+}
+
 .FilterMenu {
     bottom: 0;
     width: 100%;
