@@ -62,6 +62,7 @@ ul {
 }
 
 li {
+  cursor: pointer;
   list-style-type: none;
   margin: 10px 0;
 }
