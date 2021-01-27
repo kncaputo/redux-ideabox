@@ -13,9 +13,12 @@ const ToDoList = ({todos}) => {
   })
 
   return(
-    <ul>
-      {displayTodos}
-    </ul>
+    <section>
+      <h2>To Do:</h2>
+      <ul>
+        {displayTodos}
+      </ul>
+    </section>
   )
 }
 
